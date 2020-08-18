@@ -1,8 +1,5 @@
 from Cpf import Cpf
 
-cpf = '66144454011'
+cpf = Cpf('06613868302')
 
-obj_cpf = Cpf(cpf)
-
-
-print(obj_cpf)
+print(cpf)
