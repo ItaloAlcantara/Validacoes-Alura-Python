@@ -17,4 +17,4 @@ class Cnpj:
 
     def formata_cnpj(self):
         mascara = CNPJ()
-        return mascara.mask(self.CNPJ)
+        return mascara.mask(self.cnpj)

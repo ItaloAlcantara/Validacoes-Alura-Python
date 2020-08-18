@@ -2,5 +2,5 @@ from Cpf import Cpf
 from Cnpj import Cnpj
 
 cpf = Cpf('06613868302')
-
-print(cpf)
+cnpf = Cnpj('80391617000114')
+print(cnpf)
